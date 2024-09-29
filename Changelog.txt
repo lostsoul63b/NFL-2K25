@@ -1,5 +1,3 @@
-WHO'S DOWN WITH NFL 2K5!! OPP SONG
-
 Bug fixes
 - xbox broadcasts
 - snow endzones
@@ -19,6 +17,7 @@ Updates
 - Broadcast_Peacock_Xbox
 - Stadium_Broncos White
 - Stadium_Browns White
+- Stadium_Titans Field Numbers
 - Uni_Bengals 24' All White Color Rush
 - Uni_Bengals 24' Orange Color Rush
 - Uni_Broncos 24' Away Socks
