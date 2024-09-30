@@ -1,0 +1,44 @@
+NFL 2025 - Week 1 Rosters
+
+This file is a collaborative effort from the NFL2K5 Modding Community. Big Credit to LostsouL, BAD_AL and anyone else who's helped contribute to this years Roster project. Included are utilities to help you get started.
+
+INSTALLATION
+
+PCSX2/PS2
+ - Use mymc utility to import the roster file to your memcard
+ - Copy Ros_Portraits 24' to .\NFL 2K25 Edition\MODS folder and overwirte if prompted
+ - Enable the Ros_Portraits 24' in the GME utility
+ - Load NFL24RW1 file for exhibition games
+ - Load NFL24FW1 file to start a season
+ - Includes .max and .psu file formats
+ - Includes a memcard with the rosters loaded
+
+PS3
+ - https://www.youtube.com/watch?v=CLAJFIVmyYQ&ab_channel=Smitty
+
+XBOX
+ - https://youtu.be/2tinJnWz1uw?si=NCxFKjZOXkMOQnbY
+ - https://github.com/BAD-AL/NFL2K5Tool/wiki/XEMU-Setup-Guide
+
+CHANGLOG
+Week 1
+ - Full 53 Player Rosters
+ - Updated Player Equipment
+ - Updated Player photos
+ - Updated Depth Charts
+ - Updated Draft Class
+ - Updated Free Agents
+ - Updated PBP
+ - Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
+ - Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
+ - Updated Stadiums (Allegiant, St. Farm, Sofi, Levis)
+ - Updated Redskins to WFB Team
+ - Updated Coaches
+ - Increased Franchise Salary Cap $198.2M
+ - Franchise Includes 2024-2025 Schedule
+ - Support for Xbox, PS2, PS3, Xemu
+
+Have Fun playing with this years rosters!
+
+Thanks,
+2K5 Mod Team
