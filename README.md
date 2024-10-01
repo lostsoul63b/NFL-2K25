@@ -61,19 +61,24 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ---------
 ## Release CHANGELOG
 **Version 1**
-* 2025 Camp ratings with new rookies
+* 2025 Week 1 Ratings
 * 20th anniversary updates
 * Updated Uniforms
-* Updated Sky textures
+* Sky textures
+* Cheerleader uniforms
 * Texture bug fixes
 * Broadcast_Hulu (default)
 * Broadcast_Hulu_Xbox
 * Broadcast_YouTube TV (default)
 * Broadcast_YouTube TV_Xbox
+* Broadcast_Peacock (default)
+* Broadcast_Peacock_Xbox
 * Stadium_Broncos White
 * Stadium_Browns White
+* Stadium_Titans Field Numbers
 * Uni_Bengals 24' All White Color Rush
 * Uni_Bengals 24' Orange Color Rush
+* Uni_Broncos 24' Away Socks
 * Uni_Cardinals 24' All Black
 * Uni_Cardinals 24' All Red
 * Uni_Cardinals 24' All White
@@ -81,8 +86,16 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 * Uni_Cardinals 24' Red Top Black Pants
 * Uni_Cardinals 24' Red Top White Pants
 * Uni_Cardinals 24' White Top Red Pants
+* Uni_Eagles 24' White Jersey Black Pants Black Helmet
 * Uni_Jaguars 24' All White Color Rush
 * Uni_Jets 24' All Black
+* Uni_Jets 24' All Green
+* Uni_Jets 24' All White
+* Uni_Lions 24' All White
+* Uni_Lions 24' Away
+* Uni_Lions 24' Black
+* Uni_Lions 24' Home
+* Uni_Lions 24' Silver Pants
 * Uni_Packers 24' All White Color Rush
 * Uni_Patriots 24' Blue Pants
 * Uni_Patriots 24' Silver Pants
