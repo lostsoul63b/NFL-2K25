@@ -39,17 +39,17 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 #### *Upgrading the emulator beyond January 2023 will break jersey font textures*
 
 ## Available Releases
-| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | AVX2 | 01 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/0n0eqh9cu3794ad/NFL2K25_V1.00_Setup.zip/file) | [Tutorial]() |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | XBOX | 01 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/v0trdfndf6asskh/NFL_2K25_-_Version_1.zip/file) | [Guide]() |
+| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial | Hash |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |  :-------------: |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | AVX2 | 01 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/0n0eqh9cu3794ad/NFL2K25_V1.00_Setup.zip/file) | [Tutorial]() | 1a5643cfc050e99406cbf8c5762a9e88b4b99c11c69c00d8366c16cf25e7d0a7 |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | XBOX | 01 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/v0trdfndf6asskh/NFL_2K25_-_Version_1.zip/file) | [Guide]() | d06e8c36b7cfeea3a2a0189771692801ab9f538f237e5f3f605d9db3d7b75fcd |
 
 ---------
 ## Available Rosters
-| Version | Download | Notes | Tutorial |
-| :------------- | :-------------: | :------------- | :------------- |
-| NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) |  |  |
-| NFL 2025 Week 1 | [Ros](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) |  |
+| Version | Download | Notes | Tutorial | Hash |
+| :------------- | :-------------: | :------------- | :------------- | :------------- |
+| NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) |  |  |  |
+| NFL 2025 Week 1 | [Ros](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) |  | 21d51c30f1d7a89c0007c4d19d0b2bf3a306193e59a33ff7d28081c5adda2557 |
 
 ---------
 ## JSGME MODS
