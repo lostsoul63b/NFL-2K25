@@ -13,7 +13,7 @@ Along with every uniform created we are also including udpated 2024 uniforms for
 We overhauled menus and other branding to make this release ready for the 2025 NFL season ahead and to celebrate the 20th anniversary of NFL 2K5.
 
 ### Updated Rosters
-Included are the NFL Week 1 rosters complete with everything players are used to being included in the roster sets we release. Big thank you to everyone who has contributed to rosters and portraits! 
+Included are the NFL 2024-25 Week 1 rosters complete with everything players are used to being included in the roster sets we release. This years rosters dropped legagy cyberfaces and portraits for the current Madden Ratings player portraits.
 
 **The 2K5 Mod Team continues to deliver a unique PC Football experience to the community! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
