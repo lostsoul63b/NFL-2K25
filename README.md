@@ -41,8 +41,8 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | AVX2 |  | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/0n0eqh9cu3794ad/NFL2K25_V1.00_Setup.zip/file) | [Tutorial]() |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | XBOX |  | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/v0trdfndf6asskh/NFL_2K25_-_Version_1.zip/file) | [Guide]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | AVX2 | 01 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/0n0eqh9cu3794ad/NFL2K25_V1.00_Setup.zip/file) | [Tutorial]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1.00 | XBOX | 01 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/v0trdfndf6asskh/NFL_2K25_-_Version_1.zip/file) | [Guide]() |
 
 ---------
 ## Available Rosters
