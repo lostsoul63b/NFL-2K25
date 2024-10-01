@@ -114,7 +114,8 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 * xflamexofxhopex
 * Xevan
 * BAD_AL
-* Orleans02 
+* Orleans02
+* OSE
 * BTZero
 * 4N63L
 * Daflyboys
