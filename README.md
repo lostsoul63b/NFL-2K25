@@ -63,7 +63,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 **Version 1.01**
 * Fixed Browns field to remove Broncos logo
 
-**Version 1**
+**Version 1.00**
 * 2025 Week 1 Ratings
 * 20th anniversary updates
 * Updated Uniforms
