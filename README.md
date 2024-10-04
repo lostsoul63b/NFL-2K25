@@ -36,6 +36,10 @@ Included are the NFL 2024-25 Week 1 rosters complete with everything players are
 ## ESPN NFL 2K25 - Download
 As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulator. Playstation dual sense controller will be the default controller option and don't worry there is a GME mod you can enable if you would like to use Xbox controller.
 
+#### *If you are running V1.00, please delete the following files from your textures folder to fix a bug found with Broncos logo displaying on Browns stadium field*
+* *84077ebec7d9d25d-958b77884edd2d1a-000059d4.png*
+* *cd45bc99c01d5763-d7373fd14086e0ff-000059d3.png*
+
 #### *Upgrading the emulator beyond January 2023 will break jersey font textures*
 
 ## Available Releases
