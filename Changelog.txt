@@ -1,3 +1,55 @@
+**Version 1.02** (02 Nov 24)
+* Falcons Selection
+* Browns Endzone
+* Giants blue socks
+* Away sleeve override (Chargers, Colts, Texans)
+* Lions Helmet overlays
+* Lions Blue Helmet stripe
+* Lions Jersey font
+* Falcons selection
+* Charger selection
+* Fix Steeler night advertisement board
+* Cheerleader uniforms
+* Texans Endzone
+* 49ers Endzone + Logo
+* Texans Uniforms
+* Broncos Uniform + Helmet
+* Lions Helmets
+* Cowboys White Helmets
+* Sidelines
+* Jets Endzone
+* Updated Lions jersey font
+* Updated franchise PC images
+* Broadcast_Nickelodeon (default)
+* Broadcast_Nickelodeon_Xbox
+* Stadium_Browns White 24'
+* Stadium_Bucs Throwback 24'
+* Stadium_Chargers Sofi * Navy 24'
+* Stadium_Chargers Sofi * Royal Blue 24'
+* Stadium_Eagles Throwback 24'
+* Stadium_Giants Field Logo 24'
+* Stadium_Giants Throwback 24'
+* Stadium_Jets Field Logo 24'
+* Stadium_Seahawks Throwback 24'
+* Stadium_Texans Endzone 23'
+* Stadium_Texans Endzone White 24'
+* Stadium_Titans Throwback 24'
+* Stadium_Vikings Throwback 24'
+* Stadium_Vikings White 24'
+* Uni_Broncos 24' White Helmets
+* Uni_Chargers +Sleeve Override
+* Uni_Colts +Sleeve Override
+* Uni_Cowboys All White 24'
+* Uni_Lions 24' All White
+* Uni_Lions 24' Away
+* Uni_Lions 24' Black
+* Uni_Lions 24' Home
+* Uni_Lions 24' Throwback
+* Uni_Texans +Sleeve Override
+* Uni_Texans 24' All Blue
+* Uni_Texans 24' All Blue H-Town
+* Uni_Texans 24' Battle Red
+
 **Version 1.01** (02 Oct 24)
 * Fixed Browns field to remove Broncos logo
 
