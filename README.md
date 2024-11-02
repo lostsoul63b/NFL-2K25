@@ -56,6 +56,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 | :------------- | :-------------: | :------------- | :------------- | :------------- |
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) |  |  |  |
 | NFL 2025 Week 1 | [Ros](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) | [Video](https://youtu.be/X-G7DgwLD0o) | 079CD0380D7DC566BEBA9A5B5AFFD03AD9909BDC40E41B063C93963D487255F8 |
+| NFL 2025 Week 6 | [Ros]() | Week 6 Ros only | [Video]() | [Hash](https://github.com/lostsoul63b/NFL-2K25/blob/main/hash/Ros-Wk6-Hash.txt) |
 
 ---------
 ## JSGME MODS
