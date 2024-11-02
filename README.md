@@ -1,6 +1,6 @@
 # NFL 2K25 - 20th Anniversary
 
-![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://github.com/user-attachments/assets/e809e4f4-4b5f-4518-a92f-5880047d5466)
+![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://github.com/user-attachments/assets/1b2ba03c-66b8-4417-8042-a10cbadeec27)
 
 
 ### The newest Mod is Available Now for download
@@ -36,27 +36,25 @@ Included are the NFL 2024-25 Week 1 rosters complete with everything players are
 ## ESPN NFL 2K25 - Download
 As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulator. Playstation dual sense controller will be the default controller option and don't worry there is a GME mod you can enable if you would like to use Xbox controller.
 
-#### *If you are running V1.00, please delete the following files from your textures folder to fix a bug found with Broncos logo displaying on Browns stadium field*
-* *84077ebec7d9d25d-958b77884edd2d1a-000059d4.png*
-* *cd45bc99c01d5763-d7373fd14086e0ff-000059d3.png*
-
 #### *Upgrading the emulator beyond January 2023 will break jersey font textures*
+
+#### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders*
 
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial | Hash |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.01 | AVX2 | 02 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/qsdbmmjjjvqi0ez/NFL2K25_V1.01_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 5E3D4F98CC27589B06C58A8FC7B2320B70F96FFA43D7651E8919765AB620D388 |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.01 | SSE4 | 05 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/md2hkbjpga8jhlw/NFL2K25_V1.01_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | C1C90BEBE9A57DC2B56D8E6775F16832C084C2D8A181BB42EDFE999BBD793D47 |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.01 | XBOX | 02 Oct 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/smvt06rlqe6gcay/NFL_2K25_-_Version_1.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | D9A32E6FFF96378481ADD2DE6D2090EF31543377CEC7BC36D7ED22C2CB8EB76B |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) |  | Android | TBD | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/smvt06rlqe6gcay/NFL_2K25_-_Version_1.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) |  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.02 | AVX2 | 02 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/9wewg5k8sbhbg5r/NFL2K25_V1.02_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | AF46290E6006528087E3C709DDAB995B4AF9603871C685F9D493879EF28B3E9E |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.02 | SSE4 | 05 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/4ebnnpw2ord97yf/NFL2K25_V1.02_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 95B8351C28C43F0BF51D6F31353F4CF11C7141E820F60639AA51A71A0A6EB40E |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.02 | XBOX | 02 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/z6bpsstqkoqnku6/NFL_2K25_-_Version_1.02.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 6DBFD83003D4D0DFFE1A905F6501CCF33F6E4D3ACC0FC3EEC049722C44BE4DF3 |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.02 | Android | Nov | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file/ga7kub6g8f6vq1y/NFL2K25_Android_v1.02.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) | 997D585C8A661B6CA3170E181F3536B771059620D747110F968154D81C184CEE |
 
 ---------
 ## Available Rosters
 | Version | Download | Notes | Tutorial | Hash |
 | :------------- | :-------------: | :------------- | :------------- | :------------- |
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) |  |  |  |
-| NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) | [Video](https://youtu.be/X-G7DgwLD0o) | [Show](https://github.com/lostsoul63b/NFL-2K25/blob/main/hash/Ros-Wk1-Hash.txt) |
-| NFL 2025 Week 6 | [Ros]() | Week 6 Ros only |  | [Show](https://github.com/lostsoul63b/NFL-2K25/blob/main/hash/Ros-Wk6-Hash.txt) |
+| NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) | [Video](https://youtu.be/X-G7DgwLD0o) | 079CD0380D7DC566BEBA9A5B5AFFD03AD9909BDC40E41B063C93963D487255F8 |
+| NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) |  |  | 3A417703A3F743643AB6339DB7FB63F077F183F21007A513D2400C87CA341DC6 |
 
 ---------
 ## JSGME MODS
