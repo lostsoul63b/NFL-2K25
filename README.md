@@ -1,7 +1,6 @@
 # NFL 2K25 - 20th Anniversary
 
-![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://github.com/user-attachments/assets/1b2ba03c-66b8-4417-8042-a10cbadeec27)
-
+![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://github.com/user-attachments/assets/8cc99148-9bac-48d8-b3a0-732a74565be5)
 
 ### The newest Mod is Available Now for download
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20 years of NFL 2K5 Football and what better way to celebrate this LEGEND then with an updated texture mod that will bring the authenticity that we know players will appreciate and enjoy. 
@@ -30,7 +29,7 @@ Included are the NFL 2024-25 Week 1 rosters complete with everything players are
 ## Follow for updates and information
 * ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb) - Best place for everything related to this community mod
 * ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b) - Good place for Vids and Tutorioals
-* ![Twitter](https://github.com/user-attachments/assets/643bcb78-bdbc-4cd9-9142-7c1bd117623e) [Twitter](https://twitter.com/blostsou) - Good place for infrequent updates
+* ![X](https://github.com/user-attachments/assets/643bcb78-bdbc-4cd9-9142-7c1bd117623e) [X](https://twitter.com/blostsou) - Good place for infrequent updates
  
 ---------
 ## ESPN NFL 2K25 - Download
@@ -43,10 +42,10 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial | Hash |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.02 | AVX2 | 02 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/9wewg5k8sbhbg5r/NFL2K25_V1.02_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | AF46290E6006528087E3C709DDAB995B4AF9603871C685F9D493879EF28B3E9E |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.02 | SSE4 | 02 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/4ebnnpw2ord97yf/NFL2K25_V1.02_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 95B8351C28C43F0BF51D6F31353F4CF11C7141E820F60639AA51A71A0A6EB40E |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.02 | XBOX | 02 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/z6bpsstqkoqnku6/NFL_2K25_-_Version_1.02.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 6DBFD83003D4D0DFFE1A905F6501CCF33F6E4D3ACC0FC3EEC049722C44BE4DF3 |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.02 | Android | 02 Nov 24 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file/ga7kub6g8f6vq1y/NFL2K25_Android_v1.02.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) | 997D585C8A661B6CA3170E181F3536B771059620D747110F968154D81C184CEE |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.03 | AVX2 | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/x2aa3vxtzv8lugx/NFL2K25_V1.03_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | D7B7A5648B3A36DEF97A2095BF669429CB10FA946C392329F0F9A218CE37B191 |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.03 | SSE4 | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/drdjo015d7qznvz/NFL2K25_V1.03_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 1041D6E894C5AC9039011B2887D722017F5DBD454235F622A213BDD51D8CC477 |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.03 | XBOX | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/5njac17mh1oir0w/NFL_2K25_-_Version_1.03.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 8F586E2C70AB3FE5346DA559E3CFC0E45DF69B5518CF41FAC0EDA241178D065F |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.03 | Android | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/f5p7fx2tpl03vi8/NFL2K25_Android_v1.03.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) | D6E9A2E927506E31D6CBAC744F47605C49E0EEE38891D4B95C24654770C22CA6 |
 
 ---------
 ## Available Rosters
@@ -65,6 +64,13 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 
 ---------
 ## Release CHANGELOG
+**Version 1.03**
+- Fixed Lions current font
+- Updated splash
+- Updated cover
+- Updated installer EXE to update existing S1 memcard
+- Included Week 6 roster files
+
 **Version 1.02**
 - Falcons Selection
 - Browns Endzone
