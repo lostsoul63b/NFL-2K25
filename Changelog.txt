@@ -1,3 +1,10 @@
+**Version 1.03** (04 Nov 24)
+* Fixed Lions current font
+* Updated splash
+* Updated cover
+* Updated installer EXE to update existing S1 memcard
+* Included Week 6 roster files
+
 **Version 1.02** (02 Nov 24)
 * Falcons Selection
 * Browns Endzone
