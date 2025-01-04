@@ -1,6 +1,6 @@
 # NFL 2K25 - 20th Anniversary
 
-![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://github.com/user-attachments/assets/8cc99148-9bac-48d8-b3a0-732a74565be5)
+![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://github.com/user-attachments/assets/d9782080-35f0-42e2-8e83-a260bde76be7)
 
 ### The newest Mod is Available Now for download
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20 years of NFL 2K5 Football and what better way to celebrate this LEGEND then with an updated texture mod that will bring the authenticity that we know players will appreciate and enjoy. 
