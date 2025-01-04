@@ -1,3 +1,43 @@
+**Version 1.04**
+* Updated splash
+* Updated cover
+* Updated all 32 teams unis with the Nike F.U.S.E. template
+* Updated Patriots field logo
+* Updated Eagles Endzone
+* Updated Rams Endzone
+* Updated Bucs Endzone
+* Stadium_Bucs Playoff Endzone
+* Uni_Commanders 24' All Maroon
+* Uni_Commanders 24' Black
+* Uni_Commanders 24' Maroon Jersey Yellow Pants
+* Uni_Commanders 24' White Jersey Maroon Pants
+* Uni_Jets 24' All Black
+* Uni_Jets 24' All Green
+* Uni_Jets 24' All White
+* Uni_Lions 24' All White
+* Uni_Lions 24' Away
+* Uni_Lions 24' Black
+* Uni_Lions 24' Home
+* Uni_Lions 24' Silver Pants
+* Uni_Lions 24' Throwback
+* Uni_Panthers 24' All Black
+* Uni_Panthers 24' All Blue
+* Uni_Panthers 24' All Blue Black Socks
+* Uni_Panthers 24' All White Black Socks
+* Uni_Panthers 24' All White Blue Socks
+* Uni_Panthers 24' Black Jersey Blue Pants
+* Uni_Panthers 24' Blue Jersey Black Pants
+* Uni_Panthers 24' White Jersey Black Pants
+* Uni_Panthers 24' White Jersey Blue Pants
+* Uni_Ravens 24' All Black
+* Uni_Ravens 24' All Purple Color Rush
+* Uni_Ravens 24' Black Jersey Purple Pants
+* Uni_Ravens 24' White Jersey Black Pants
+* Uni_Ravens 24' White Jersey Purple Pants
+* Uni_Saints 24' All White Current
+* Uni_Saints 24' Black Jersey Gold Pants
+* Includes Week 14 Rosters
+
 **Version 1.03** (04 Nov 24)
 * Fixed Lions current font
 * Updated splash
