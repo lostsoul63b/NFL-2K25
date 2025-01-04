@@ -40,20 +40,20 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 #### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders*
 
 ## Available Releases
-| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial | Hash |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.03 | AVX2 | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/x2aa3vxtzv8lugx/NFL2K25_V1.03_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | D7B7A5648B3A36DEF97A2095BF669429CB10FA946C392329F0F9A218CE37B191 |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.03 | SSE4 | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/drdjo015d7qznvz/NFL2K25_V1.03_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 1041D6E894C5AC9039011B2887D722017F5DBD454235F622A213BDD51D8CC477 |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.03 | XBOX | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/5njac17mh1oir0w/NFL_2K25_-_Version_1.03.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 8F586E2C70AB3FE5346DA559E3CFC0E45DF69B5518CF41FAC0EDA241178D065F |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.03 | Android | 04 Nov 2024 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/f5p7fx2tpl03vi8/NFL2K25_Android_v1.03.zip/file) | [Tutorial](https://youtu.be/KYR4NOMAQj0) | D6E9A2E927506E31D6CBAC744F47605C49E0EEE38891D4B95C24654770C22CA6 |
+| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.04 | AVX2 | 04 Jan 2025 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/hdak507kw2c0z1p/NFL2K25_V1.04_Setup.zip/file) | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.04 | SSE4 | 04 Jan 2025 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer]() | [Tutorial](https://youtu.be/EL8zoBOzRmA) | 
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.04 | XBOX | 04 Jan 2025 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/69yyhjlzes9s4mj/NFL2K25_XBOX_v1.04.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.04 | Android | 04 Jan 2025 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/1e75y8ovqep5n4x/NFL2K25_Android_v1.04.zip/file) | [Tutorial](https://youtu.be/KYR4NOMAQj0) | 
 
 ---------
 ## Available Rosters
-| Version | Download | Notes | Tutorial | Hash |
-| :------------- | :-------------: | :------------- | :------------- | :------------- |
+| Version | Download | Notes | Tutorial |
+| :------------- | :-------------: | :------------- | :------------- |
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/0bi3i3vt9vxobgm/ESPN_NFL_2025_Madden_Rosters.zip/file) |  |  |  |
-| NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) | [Video](https://youtu.be/X-G7DgwLD0o) | 079CD0380D7DC566BEBA9A5B5AFFD03AD9909BDC40E41B063C93963D487255F8 |
-| NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) |  |  | 3A417703A3F743643AB6339DB7FB63F077F183F21007A513D2400C87CA341DC6 |
+| NFL 2025 Week 1 | [Ros+Fra](https://www.mediafire.com/file_premium/9l7vsy1hoqzqyum/NFL2025_Week1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K25/blob/main/Week1.txt) | [Video](https://youtu.be/X-G7DgwLD0o) | 
+| NFL 2025 Week 6 | [Ros](https://www.mediafire.com/file_premium/f6169251c0nj4by/NFL2025_Week6.zip/file) |  |  | 
 
 ---------
 ## JSGME MODS
