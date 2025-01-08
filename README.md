@@ -37,7 +37,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 
 #### *Upgrading the emulator beyond January 2023 will break jersey font textures*
 
-#### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders*
+#### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders, as well asl replace the memcard in slot 1 "NFL25_S1.ps2"*
 
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
