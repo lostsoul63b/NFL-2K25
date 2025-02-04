@@ -60,7 +60,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ## JSGME MODS
 | Platform | Package Info | Download | Tutorial |
 | :------------- | :------------- | :------------- | :------------- |
-| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Super Bowl LIX | [Download]() | [Click-to-Watch]() |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Super Bowl LIX | [Download](https://www.mediafire.com/file_premium/dxv63ry9ld6fd0w/SuperBowl_LIX_Mod.zip/file) | [Click-to-Watch](https://youtu.be/YCQdr8gEeoA) |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | College Football 2K23 | [Download](https://www.mediafire.com/file/s2h2ewuysii87tt/NCAA_2K23_-_Release_Two.zip/file) | [Click-to-Watch](https://youtu.be/ktvU2rqs9cc) |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | SEC College Championship | [Download](https://www.mediafire.com/file/ufmwyo3r98xtlom/NCAA23_SEC_2023.zip/file) | [Click-to-Watch](https://youtu.be/XvpsocyO85g) |
 
