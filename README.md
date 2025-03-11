@@ -66,6 +66,11 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 
 ---------
 ## Release CHANGELOG
+**Version 1.05**
+- Updated splash
+- Updated cover
+- Revised Nike F.U.S.E Jersey all teams
+
 **Version 1.04**
 - Updated splash
 - Updated cover
